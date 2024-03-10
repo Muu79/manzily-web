@@ -1,3 +1,10 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+#home-image-wrapper{
+    position: relative;
+    top: -150px;
+    z-index: -99;
+}
